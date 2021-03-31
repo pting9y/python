@@ -1,1 +1,1 @@
-# Here we are starting off the Python journey!
+# Python is starting. 
