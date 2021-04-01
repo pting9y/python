@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+step1/hello.py
+.vscode/settings.py
