@@ -1,3 +1,8 @@
+"""
+function.py
+"""
+
+
 def format_position(latitude, longitude):
     # string object "Lat: ~ {}" has a format function.
     pattern = "Lat: {} - Long: {}"
@@ -25,6 +30,7 @@ def send_mail(body, to):
 
 
 print(format_position(-52.23, 120.00))
+print(format_position(30, 50))
 
 print(cal_sum(5, 10))
 

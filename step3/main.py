@@ -1,3 +1,7 @@
+"""
+main.py
+"""
+
 import sensor
 
 sensor_pattern = "Source: {} - Value: {}"

@@ -1,8 +1,10 @@
 """
 Sensor.py
 
-Reading out sensor data.
+Reading out sensor data
+and return the reading. 
 """
+
 
 def read_sensor():
     # reading data from a ABC sensor.
